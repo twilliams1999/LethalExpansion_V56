@@ -1,3 +1,7 @@
+# THIS FORK DOES NOT WORK
+
+This is a fork of the original LethalExpansion mod that I was interested in updating to work with V56. I've done some stuff with Lethal Company modding but not much, and I don't know how far I will get with this project. DO NOT EXPECT IT TO WORK. I will update this message if that changes
+
 # LethalExpansion
 
  This mod is an expansion project to add several settings and features, it come with an SDK to add new Scraps and Moons yourself.  
